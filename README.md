@@ -1,6 +1,5 @@
 
-This is a simple Python desktop program for CSI 3480. It uses Tkinter for the window and builds on the password generator and PBKDF2 hashing ideas from our group's earlier notebook.
-
+This is a simple Python desktop program for CSI 3480. It uses Tkinter for the window and builds on the password generator and PBKDF2 hashing 
 ## Run the program
 
 1. Install Python 
